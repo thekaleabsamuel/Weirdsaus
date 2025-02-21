@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "https://thekaleabsamuel.github.io/weirdsaus/static/css/main.acc16e7b.css",
-    "main.js": "https://thekaleabsamuel.github.io/weirdsaus/static/js/main.b05ebab8.js",
+    "main.js": "https://thekaleabsamuel.github.io/weirdsaus/static/js/main.d2e33e2b.js",
     "static/js/453.3325f27f.chunk.js": "https://thekaleabsamuel.github.io/weirdsaus/static/js/453.3325f27f.chunk.js",
     "index.html": "https://thekaleabsamuel.github.io/weirdsaus/index.html",
     "main.acc16e7b.css.map": "https://thekaleabsamuel.github.io/weirdsaus/static/css/main.acc16e7b.css.map",
-    "main.b05ebab8.js.map": "https://thekaleabsamuel.github.io/weirdsaus/static/js/main.b05ebab8.js.map",
+    "main.d2e33e2b.js.map": "https://thekaleabsamuel.github.io/weirdsaus/static/js/main.d2e33e2b.js.map",
     "453.3325f27f.chunk.js.map": "https://thekaleabsamuel.github.io/weirdsaus/static/js/453.3325f27f.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.acc16e7b.css",
-    "static/js/main.b05ebab8.js"
+    "static/js/main.d2e33e2b.js"
   ]
 }
